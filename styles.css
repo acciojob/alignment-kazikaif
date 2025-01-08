@@ -16,6 +16,7 @@
 .blue{
 	background-color: blue;
 }
-.t-image{
-	align-content:center;
-}
+td {
+            text-align: center;
+            vertical-align: middle;
+            border: 1px solid black;
